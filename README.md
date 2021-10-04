@@ -14,7 +14,9 @@
 1. Load up in Visual Studio and run 'firstAPI' under the 'IIS Express' option
 * Using Postman, send int-arrays to 'https://localhost:xxxxx/api/ReqX as JSON with the field labeled as "int_array"
 * * {"int_array" : [2,5,4,1,3]}
-3. Load up in Visual Studio and run 'Req4' under the 'Req4' option
+2. Load up in Visual Studio and run 'Req4' under the 'Req4' option]
+* Enter in a series of integers, seperated by commas (no spaces) and hit enter to view results
+* * Needs firstAPI running to work, port# also hard-coded here
 
 #### Notes:
 * Req3 and Req4 have a statically referenced port # (44394) for making the POST requests
