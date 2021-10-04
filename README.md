@@ -17,5 +17,6 @@ The project 'Req4' is purely for the fourth requirement, utilizing a console app
 * 'Req4' is only setup to run one time per the specifications. Including a (while true) loop would easily make it run indefinitely
 * I tested this on Windows 10 using the built-in 'WebAPI' template through Visual Studio
 * When 'firstAPI' is run it will launch a browser by default and fill it with dummy JSON info about the weather
+* I'm not entirely sure I used LINQ in the way you guys specified, apologies but that's a new concept to me!
 * There are screenshots in the root directory as proof of functionality
 * If I had more time I would definitely have polished this project more (and added a short video demo) :)
