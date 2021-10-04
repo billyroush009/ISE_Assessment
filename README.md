@@ -11,10 +11,10 @@
 * The project 'Req4' is purely for the fourth requirement, utilizing a console application to access and display info from the prior 3 requirements
 
 ### How to Use:
-1. Load up in Visual Studio and run 'firstAPI' under the 'IIS Express' option
+1. Load up firstAPI in Visual Studio and run 'firstAPI' under the 'IIS Express' option
 * Using Postman, send int-arrays (as a POST) to 'https://localhost:xxxxx/api/ReqX' as JSON with the field labeled as "int_array"
 * * {"int_array" : [2,5,4,1,3]}
-2. Load up in Visual Studio and run 'Req4' under the 'Req4' option]
+2. Load up Req4 in Visual Studio and run 'Req4'
 * Enter in a series of integers, seperated by commas (no spaces) and hit enter to view results
 * * Needs firstAPI running to work, port# also hard-coded here
 
