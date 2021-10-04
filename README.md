@@ -1,8 +1,9 @@
 # ISE_Assessment
 
 ## Setup:
-This was done in Visual Studio Community 2019 with .NET Core 3.1. POST testing was done using 'Postman'
-NuGet Packages:
+* This was done in Visual Studio Community 2019 with .NET Core 3.1. POST testing was done using 'Postman'
+
+###NuGet Packages:
 1. Newtonsoft.Json
 2. Microsoft.AspNetCore.Mvc.NewtonsoftJson
 
