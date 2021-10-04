@@ -7,8 +7,8 @@
 1. Newtonsoft.Json
 2. Microsoft.AspNetCore.Mvc.NewtonsoftJson
 
-The project 'firstAPI' contains all the controllers and reactive APIs for this assigment
-The project 'Req4' is purely for the fourth requirement, utilizing a console application to access and display info from the prior 3 requirements
+* The project 'firstAPI' contains all the controllers and reactive APIs for this assigment
+* The project 'Req4' is purely for the fourth requirement, utilizing a console application to access and display info from the prior 3 requirements
 
 ### How to Use:
 1. Load up and run 'firstAPI' under the 'IIS Express' option
