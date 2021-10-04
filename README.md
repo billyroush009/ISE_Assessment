@@ -15,6 +15,8 @@
 2. Load up and run 'Req4' under the 'Req4' option
 
 #### Notes:
+* Req3 and Req4 have a statically referenced port # (44394) for making the POST requests
+* * I believe there's a way to default Visual Studio to default to a specific port and I'm sure there's a way to dynamically call these which would be better practice
 * When 'firstAPI' is run it will launch a browser by default and fill it with dummy JSON info about the weather
 * * The URL contains the randomly generated port # you'll probably need to send POSTs with Postman
 * 'Req4' is only setup to run one time per the specifications. Including a (while true) loop would easily make it run indefinitely
