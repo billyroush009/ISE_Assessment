@@ -12,7 +12,7 @@
 
 ### How to Use:
 1. Load up in Visual Studio and run 'firstAPI' under the 'IIS Express' option
-* Using Postman, send int-arrays to 'https://localhost:xxxxx/api/ReqX as JSON with the field labeled as "int_array"
+* Using Postman, send int-arrays (as a POST) to 'https://localhost:xxxxx/api/ReqX as JSON with the field labeled as "int_array"
 * * {"int_array" : [2,5,4,1,3]}
 2. Load up in Visual Studio and run 'Req4' under the 'Req4' option]
 * Enter in a series of integers, seperated by commas (no spaces) and hit enter to view results
