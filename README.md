@@ -11,8 +11,8 @@
 * The project 'Req4' is purely for the fourth requirement, utilizing a console application to access and display info from the prior 3 requirements
 
 ### How to Use:
-1. Load up and run 'firstAPI' under the 'IIS Express' option
-2. Load up and run 'Req4' under the 'Req4' option
+1. Load up in Visual Studio and run 'firstAPI' under the 'IIS Express' option
+2. Load up in Visual Studio and run 'Req4' under the 'Req4' option
 
 #### Notes:
 * Req3 and Req4 have a statically referenced port # (44394) for making the POST requests
