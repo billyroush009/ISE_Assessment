@@ -1,0 +1,14 @@
+C:\Users\Billy\source\repos\Req4\obj\Debug\netcoreapp3.1\Req4.csproj.AssemblyReference.cache
+C:\Users\Billy\source\repos\Req4\obj\Debug\netcoreapp3.1\Req4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Billy\source\repos\Req4\obj\Debug\netcoreapp3.1\Req4.AssemblyInfoInputs.cache
+C:\Users\Billy\source\repos\Req4\obj\Debug\netcoreapp3.1\Req4.AssemblyInfo.cs
+C:\Users\Billy\source\repos\Req4\obj\Debug\netcoreapp3.1\Req4.csproj.CoreCompileInputs.cache
+C:\Users\Billy\source\repos\Req4\bin\Debug\netcoreapp3.1\Req4.exe
+C:\Users\Billy\source\repos\Req4\bin\Debug\netcoreapp3.1\Req4.deps.json
+C:\Users\Billy\source\repos\Req4\bin\Debug\netcoreapp3.1\Req4.runtimeconfig.json
+C:\Users\Billy\source\repos\Req4\bin\Debug\netcoreapp3.1\Req4.runtimeconfig.dev.json
+C:\Users\Billy\source\repos\Req4\bin\Debug\netcoreapp3.1\Req4.dll
+C:\Users\Billy\source\repos\Req4\bin\Debug\netcoreapp3.1\Req4.pdb
+C:\Users\Billy\source\repos\Req4\obj\Debug\netcoreapp3.1\Req4.dll
+C:\Users\Billy\source\repos\Req4\obj\Debug\netcoreapp3.1\Req4.pdb
+C:\Users\Billy\source\repos\Req4\obj\Debug\netcoreapp3.1\Req4.genruntimeconfig.cache
